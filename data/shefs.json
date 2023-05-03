@@ -3,7 +3,10 @@
         "id": 1,
         "chefPicture": "https://images.pexels.com/photos/8093844/pexels-photo-8093844.jpeg?auto=compress&cs=tinysrgb&w=600",    
         "chefName": "Smith Chu",   
-        "shortBio": "lorems dsjffj s dsdjfs df sjdf sd sd f sfsfksfksksfj sjfksfjskf sfssf ssfm ", 
+        "shortBio": [
+            "He work as a Chinese chef, Smith have a strong understanding of Chinese ingredients, including a variety of meats, seafood, vegetables, and spices. He is well-versed in their regional variations and seasonal availability, and  have a keen sense of balance in flavors, textures, and colors, creating visually stunning and delicious dishes.",
+            "Smith Chu work in a variety of settings, from small, family-owned restaurants to high-end fine dining establishments. Depending on his experience, he is specialize in a particular regional cuisine, such as Sichuan or Cantonese, or have a more general expertise in Chinese cooking. Above all, he is dedicated to creating delicious and memorable dining experiences for his customers and expanding his knowledge of Chinese cuisine."
+        ], 
         "yearsOfExperience": 15,    
         "numberOfRecipes": 50, 
         "recipes": [
@@ -39,7 +42,11 @@
     {    
         "id": 2,
         "chefPicture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",    
-        "chefName": "Jane Fu",    
+        "chefName": "Jane Fu",  
+        "shortBio": [
+            "He work as a Chinese chef, Smith have a strong understanding of Chinese ingredients, including a variety of meats, seafood, vegetables, and spices. He is well-versed in their regional variations and seasonal availability, and  have a keen sense of balance in flavors, textures, and colors, creating visually stunning and delicious dishes.",
+            "Jane Fu work in a variety of settings, from small, family-owned restaurants to high-end fine dining establishments. Depending on his experience, he is specialize in a particular regional cuisine, such as Sichuan or Cantonese, or have a more general expertise in Chinese cooking. Above all, he is dedicated to creating delicious and memorable dining experiences for his customers and expanding his knowledge of Chinese cuisine."
+        ],   
         "yearsOfExperience": 10,    
         "numberOfRecipes": 30, 
         "recipes": [
@@ -74,7 +81,11 @@
     {    
         "id": 3,
         "chefPicture": "https://images.pexels.com/photos/3171128/pexels-photo-3171128.jpeg?auto=compress&cs=tinysrgb&w=600",
-        "chefName": "Yang Lee",    
+        "chefName": "Yang Lee",  
+        "shortBio": [
+            "He work as a Chinese chef, Smith have a strong understanding of Chinese ingredients, including a variety of meats, seafood, vegetables, and spices. He is well-versed in their regional variations and seasonal availability, and  have a keen sense of balance in flavors, textures, and colors, creating visually stunning and delicious dishes.",
+            "Yang Lee work in a variety of settings, from small, family-owned restaurants to high-end fine dining establishments. Depending on his experience, he is specialize in a particular regional cuisine, such as Sichuan or Cantonese, or have a more general expertise in Chinese cooking. Above all, he is dedicated to creating delicious and memorable dining experiences for his customers and expanding his knowledge of Chinese cuisine."
+        ],   
         "yearsOfExperience": 20,    
         "numberOfRecipes": 75,    
         "recipes": [
@@ -109,7 +120,11 @@
     {    
         "id": 4,    
         "chefPicture": "https://img.freepik.com/free-photo/brunette-woman-kitchen_23-2148173198.jpg?w=740&t=st=1683117941~exp=1683118541~hmac=8c29246f6cf3aca3aa04a9e830aaf84022c31a443c027515c04cbe38cdd92c34",    
-        "chefName": "Maria Rodriguez",    
+        "chefName": "Maria Rodriguez",  
+        "shortBio": [
+            "She work as a Chinese chef, Smith have a strong understanding of Chinese ingredients, including a variety of meats, seafood, vegetables, and spices. He is well-versed in their regional variations and seasonal availability, and  have a keen sense of balance in flavors, textures, and colors, creating visually stunning and delicious dishes.",
+            "Maria Rodriguez work in a variety of settings, from small, family-owned restaurants to high-end fine dining establishments. Depending on his experience, he is specialize in a particular regional cuisine, such as Sichuan or Cantonese, or have a more general expertise in Chinese cooking. Above all, he is dedicated to creating delicious and memorable dining experiences for his customers and expanding his knowledge of Chinese cuisine."
+        ],   
         "yearsOfExperience": 12,    
         "numberOfRecipes": 60,    
         "recipes": [
@@ -144,7 +159,11 @@
     {    
         "id": 5,    
         "chefPicture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683118076~exp=1683118676~hmac=021b7724943c5bf0cf61259466bbf1a7a1de6321d0c1039b5c2c4d8c2e3bcb6c",    
-        "chefName": "Daniel Kim Chu",    
+        "chefName": "Daniel Kim Chu", 
+        "shortBio": [
+            "He work as a Chinese chef, Smith have a strong understanding of Chinese ingredients, including a variety of meats, seafood, vegetables, and spices. He is well-versed in their regional variations and seasonal availability, and  have a keen sense of balance in flavors, textures, and colors, creating visually stunning and delicious dishes.",
+            "Daniel Kim Chu work in a variety of settings, from small, family-owned restaurants to high-end fine dining establishments. Depending on his experience, he is specialize in a particular regional cuisine, such as Sichuan or Cantonese, or have a more general expertise in Chinese cooking. Above all, he is dedicated to creating delicious and memorable dining experiences for his customers and expanding his knowledge of Chinese cuisine."
+        ],   
         "yearsOfExperience": 8,    
         "numberOfRecipes": 20,   
         "recipes": [
@@ -180,6 +199,10 @@
         "id": 6,    
         "chefPicture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?w=740&t=st=1683118139~exp=1683118739~hmac=77b33dde1fb5f52aa5c0b0186f1cce8a530f5e0686d9ffc668ba4067baeaec8a",    
         "chefName": "Emily Chen",    
+        "shortBio": [
+            "He work as a Chinese chef, Smith have a strong understanding of Chinese ingredients, including a variety of meats, seafood, vegetables, and spices. He is well-versed in their regional variations and seasonal availability, and  have a keen sense of balance in flavors, textures, and colors, creating visually stunning and delicious dishes.",
+            "Emily Chen Chu work in a variety of settings, from small, family-owned restaurants to high-end fine dining establishments. Depending on his experience, he is specialize in a particular regional cuisine, such as Sichuan or Cantonese, or have a more general expertise in Chinese cooking. Above all, he is dedicated to creating delicious and memorable dining experiences for his customers and expanding his knowledge of Chinese cuisine."
+        ], 
         "yearsOfExperience": 5,    
         "numberOfRecipes": 15,    
         "recipes": [
