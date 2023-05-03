@@ -1,8 +1,8 @@
 [  
     {    
         "id": 1,
-        "chefPicture": "https://example.com/chef1.jpg",    
-        "chefName": "John Smith",   
+        "chefPicture": "https://images.pexels.com/photos/8093844/pexels-photo-8093844.jpeg?auto=compress&cs=tinysrgb&w=600",    
+        "chefName": "Smith Chu",   
         "shortBio": "lorems dsjffj s dsdjfs df sjdf sd sd f sfsfksfksksfj sjfksfjskf sfssf ssfm ", 
         "yearsOfExperience": 15,    
         "numberOfRecipes": 50, 
@@ -38,13 +38,13 @@
     },
     {    
         "id": 2,
-        "chefPicture": "https://example.com/chef2.jpg",    
-        "chefName": "Jane Doe",    
+        "chefPicture": "https://images.pexels.com/photos/3351927/pexels-photo-3351927.jpeg?auto=compress&cs=tinysrgb&w=600",    
+        "chefName": "Jane Fu",    
         "yearsOfExperience": 10,    
         "numberOfRecipes": 30, 
         "recipes": [
             {    
-                "id": 101,    
+                "id": 201,    
                 "recipiImg": "",    
                 "recipiName": "Recipe Name",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
@@ -52,7 +52,7 @@
                 "ratings": 4.2
             },
             {
-                "id": 102,
+                "id": 202,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -60,7 +60,7 @@
                 "ratings": 3.8
             },
             {
-                "id": 103,
+                "id": 203,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -73,13 +73,13 @@
     },  
     {    
         "id": 3,
-        "chefPicture": "https://example.com/chef3.jpg",
-        "chefName": "David Lee",    
+        "chefPicture": "https://images.pexels.com/photos/3171128/pexels-photo-3171128.jpeg?auto=compress&cs=tinysrgb&w=600",
+        "chefName": "Yang Lee",    
         "yearsOfExperience": 20,    
         "numberOfRecipes": 75,    
         "recipes": [
             {    
-                "id": 101,    
+                "id": 301,    
                 "recipiImg": "",    
                 "recipiName": "Recipe Name",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
@@ -87,7 +87,7 @@
                 "ratings": 4.2
             },
             {
-                "id": 102,
+                "id": 302,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -95,7 +95,7 @@
                 "ratings": 3.8
             },
             {
-                "id": 103,
+                "id": 303,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -108,13 +108,13 @@
     },
     {    
         "id": 4,    
-        "chefPicture": "https://example.com/chef4.jpg",    
+        "chefPicture": "https://img.freepik.com/free-photo/brunette-woman-kitchen_23-2148173198.jpg?w=740&t=st=1683117941~exp=1683118541~hmac=8c29246f6cf3aca3aa04a9e830aaf84022c31a443c027515c04cbe38cdd92c34",    
         "chefName": "Maria Rodriguez",    
         "yearsOfExperience": 12,    
         "numberOfRecipes": 60,    
         "recipes": [
             {    
-                "id": 101,    
+                "id": 401,    
                 "recipiImg": "",    
                 "recipiName": "Recipe Name",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
@@ -122,7 +122,7 @@
                 "ratings": 4.2
             },
             {
-                "id": 102,
+                "id": 402,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -130,7 +130,7 @@
                 "ratings": 3.8
             },
             {
-                "id": 103,
+                "id": 403,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -143,13 +143,13 @@
     },
     {    
         "id": 5,    
-        "chefPicture": "https://example.com/chef5.jpg",    
-        "chefName": "Daniel Kim",    
+        "chefPicture": "https://img.freepik.com/free-photo/portrait-happy-male-chef-dressed-uniform_171337-5354.jpg?w=740&t=st=1683118076~exp=1683118676~hmac=021b7724943c5bf0cf61259466bbf1a7a1de6321d0c1039b5c2c4d8c2e3bcb6c",    
+        "chefName": "Daniel Kim Chu",    
         "yearsOfExperience": 8,    
         "numberOfRecipes": 20,   
         "recipes": [
             {    
-                "id": 101,    
+                "id": 501,    
                 "recipiImg": "",    
                 "recipiName": "Recipe Name",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
@@ -157,7 +157,7 @@
                 "ratings": 4.2
             },
             {
-                "id": 102,
+                "id": 502,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -165,7 +165,7 @@
                 "ratings": 3.8
             },
             {
-                "id": 103,
+                "id": 503,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -178,13 +178,13 @@
     },
     {    
         "id": 6,    
-        "chefPicture": "https://example.com/chef6.jpg",    
+        "chefPicture": "https://img.freepik.com/free-photo/chef-posing-with-knife-his-kitchen_155003-502.jpg?w=740&t=st=1683118139~exp=1683118739~hmac=77b33dde1fb5f52aa5c0b0186f1cce8a530f5e0686d9ffc668ba4067baeaec8a",    
         "chefName": "Emily Chen",    
         "yearsOfExperience": 5,    
         "numberOfRecipes": 15,    
         "recipes": [
             {    
-                "id": 101,    
+                "id": 601,    
                 "recipiImg": "",    
                 "recipiName": "Recipe Name",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
@@ -192,7 +192,7 @@
                 "ratings": 4.2
             },
             {
-                "id": 102,
+                "id": 602,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
@@ -200,7 +200,7 @@
                 "ratings": 3.8
             },
             {
-                "id": 103,
+                "id": 603,
                 "recipiImg": "",
                 "recipiName": "Another Recipe",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
