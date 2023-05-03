@@ -9,24 +9,24 @@
         "recipes": [
             {    
                 "id": 101,    
-                "recipiImg": "",    
-                "recipiName": "Recipe Name",    
+                "recipiImg": "https://img.freepik.com/free-photo/penne-pasta-tomato-sauce-with-chicken-tomatoes-wooden-table_2829-19739.jpg?t=st=1683118291~exp=1683118891~hmac=2cc18341b023b4410f343edd84737415b583af11d1fe695fa0200e40046d98da",    
+                "recipiName": "Penne Pasta",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
                 "cookingMethod": ["Preheat the oven to 375 degrees.", "Mix ingredients in a large bowl.", "Bake for 20 minutes."],
                 "ratings": 4.2
             },
             {
                 "id": 102,
-                "recipiImg": "",
-                "recipiName": "Another Recipe",
+                "recipiImg": "https://img.freepik.com/free-photo/chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.jpg?w=740&t=st=1683118364~exp=1683118964~hmac=f971ac6458e2119b5b5ec2a3fe52c1d3fdb95ac423906131f8d048fada5a4517",
+                "recipiName": "Chicken Skewers",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
                 "cookingMethod": ["Boil water in a large pot.", "Add pasta and cook for 10 minutes.", "Drain pasta and add sauce."],
                 "ratings": 3.8
             },
             {
                 "id": 103,
-                "recipiImg": "",
-                "recipiName": "Another Recipe",
+                "recipiImg": "https://img.freepik.com/free-photo/top-view-delicious-noodles-concept_23-2148773775.jpg?w=740&t=st=1683118478~exp=1683119078~hmac=ae49b3cdb91dfd2e70d8cabf6ce7f53bada4c9c7514461abbe8ceecedfce5ce5",
+                "recipiName": "Dragon Nodles",
                 "ingredients": ["8 oz. spaghetti", "1/2 cup tomato sauce", "1/4 cup grated parmesan cheese", "1/4 cup olive oil", "2 garlic cloves"],
                 "cookingMethod": ["Boil water in a large pot.", "Add pasta and cook for 10 minutes.", "Drain pasta and add sauce."],
                 "ratings": 3.8
@@ -45,8 +45,8 @@
         "recipes": [
             {    
                 "id": 201,    
-                "recipiImg": "",    
-                "recipiName": "Recipe Name",    
+                "recipiImg": "https://img.freepik.com/free-photo/top-view-asian-dish-with-copy-space_23-2148694381.jpg?w=900&t=st=1683118550~exp=1683119150~hmac=0baa48830ed999090e3fe0bacc065e7b02645afe168a9fe76dd6834700207369",    
+                "recipiName": "Chuchi Mumu",    
                 "ingredients": ["1 cup all-purpose flour", "1/2 teaspoon baking powder", "1/4 teaspoon salt", "1/2 cup unsalted butter, room temperature", "1/2 cup granulated sugar"],
                 "cookingMethod": ["Preheat the oven to 375 degrees.", "Mix ingredients in a large bowl.", "Bake for 20 minutes."],
                 "ratings": 4.2
